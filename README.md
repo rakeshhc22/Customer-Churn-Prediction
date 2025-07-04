@@ -69,19 +69,19 @@ customer-churn-prediction/
 
 ▶️ Setup & Run
 
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/yourusername/customer-churn-prediction.git
 cd customer-churn-prediction
 
-# 2. Create and activate virtual environment
+ 2. Create and activate virtual environment
 python -m venv venv
 venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Linux/Mac
 
-# 3. Install dependencies
+ 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the Flask server
+ 4. Run the Flask server
 cd src
 python app.py
 
